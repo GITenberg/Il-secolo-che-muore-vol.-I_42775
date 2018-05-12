@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7633
     wikipedia: http://en.wikipedia.org/wiki/Francesco_Domenico_Guerrazzi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42775#Il-secolo-che-muore-vol.-I
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2013-05-23'
 gutenberg_type: Text
